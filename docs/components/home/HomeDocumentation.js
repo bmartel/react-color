@@ -51,7 +51,7 @@ class HomeDocumentation extends React.Component {
       },
     })
 
-    const bottom = <iframe src="https://ghbtns.com/github-btn.html?user=casesandberg&repo=react-color&type=star&count=true&size=large" scrolling="0" width="160px" height="30px" frameBorder="0"></iframe>
+    const bottom = <iframe src="https://ghbtns.com/github-btn.html?user=bmartel&repo=react-color&type=star&count=true&size=large" scrolling="0" width="160px" height="30px" frameBorder="0"></iframe>
 
     // return <div></div>;
     return (

@@ -26397,7 +26397,7 @@
 	                _react2.default.createElement(
 	                  'div',
 	                  { style: styles.star },
-	                  _react2.default.createElement('iframe', { src: 'https://ghbtns.com/github-btn.html?user=casesandberg&repo=react-color&type=star&count=true&size=large', scrolling: '0', width: '160px', height: '30px', frameBorder: '0' })
+	                  _react2.default.createElement('iframe', { src: 'https://ghbtns.com/github-btn.html?user=bmartel&repo=react-color&type=star&count=true&size=large', scrolling: '0', width: '160px', height: '30px', frameBorder: '0' })
 	                )
 	              ),
 	              _react2.default.createElement(
@@ -34842,7 +34842,7 @@
 	        }
 	      });
 
-	      var bottom = _react2.default.createElement('iframe', { src: 'https://ghbtns.com/github-btn.html?user=casesandberg&repo=react-color&type=star&count=true&size=large', scrolling: '0', width: '160px', height: '30px', frameBorder: '0' });
+	      var bottom = _react2.default.createElement('iframe', { src: 'https://ghbtns.com/github-btn.html?user=bmartel&repo=react-color&type=star&count=true&size=large', scrolling: '0', width: '160px', height: '30px', frameBorder: '0' });
 
 	      // return <div></div>;
 	      return _react2.default.createElement(

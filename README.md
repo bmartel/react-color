@@ -1,4 +1,4 @@
-# [React Color](http://casesandberg.github.io/react-color/)
+# [React Color](http://bmartel.github.io/react-color/)
 
 [![Npm Version][npm-version-image]][npm-version-url]
 [![Build Status][travis-svg]][travis-url]
@@ -13,7 +13,7 @@
 
 ![Demo](https://media.giphy.com/media/26FfggT53qE304CwE/giphy.gif)
 
-[**Live Demo**](http://casesandberg.github.io/react-color/)
+[**Live Demo**](http://bmartel.github.io/react-color/)
 
 ## Installation & Usage
 
@@ -38,8 +38,8 @@ You can import `AlphaPicker` `BlockPicker` `ChromePicker` `CirclePicker` `Compac
 
 > 100% inline styles via [ReactCSS](http://reactcss.com/)
 
-[travis-svg]: https://travis-ci.org/casesandberg/react-color.svg
-[travis-url]: https://travis-ci.org/casesandberg/react-color
+[travis-svg]: https://travis-ci.org/bmartel/react-color.svg
+[travis-url]: https://travis-ci.org/bmartel/react-color
 [license-image]: http://img.shields.io/npm/l/react-color.svg
 [license-url]: LICENSE
 [downloads-image]: http://img.shields.io/npm/dm/react-color.svg

@@ -189,7 +189,7 @@ class HomeFeature extends React.Component {
                   Twitter, Material Design & more
                 </div>
                 <div style={ styles.star }>
-                  <iframe src="https://ghbtns.com/github-btn.html?user=casesandberg&repo=react-color&type=star&count=true&size=large" scrolling="0" width="160px" height="30px" frameBorder="0"></iframe>
+                  <iframe src="https://ghbtns.com/github-btn.html?user=bmartel&repo=react-color&type=star&count=true&size=large" scrolling="0" width="160px" height="30px" frameBorder="0"></iframe>
                 </div>
               </div>
               <div style={ styles.chrome }>

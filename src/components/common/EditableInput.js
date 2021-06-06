@@ -66,7 +66,7 @@ export class EditableInput extends (PureComponent || Component) {
   handleKeyDown = (e) => {
     // In case `e.target.value` is a percentage remove the `%` character
     // and update accordingly with a percentage
-    // https://github.com/casesandberg/react-color/issues/383
+    // https://github.com/bmartel/react-color/issues/383
     const value = getNumberValue(e.target.value)
     if (!isNaN(value) && isValidKeyCode(e.keyCode)) {
       const offset = this.getArrowOffset()
